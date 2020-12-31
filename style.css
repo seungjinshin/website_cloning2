@@ -397,7 +397,7 @@ body {
   align-items: center;
   flex: 1 0 auto;
   text-align: center;
-  background-image: src ("/website_cloning2/img/money4.jpg");
+  background-image: url ("/website_cloning2/img/money4.jpg");
   background-size: cover;
   background-position: top;
   color: #2b3f40; }
